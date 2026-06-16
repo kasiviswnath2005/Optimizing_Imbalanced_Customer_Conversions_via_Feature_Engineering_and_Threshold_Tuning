@@ -83,17 +83,7 @@ This optimization identifies the decision boundary that maximizes overall classi
 
 ---
 
-## Future Improvements
-
-* Experiment with ensemble methods such as Random Forest and XGBoost.
-* Apply SMOTE and other advanced imbalance-handling techniques.
-* Deploy the model using Flask or Streamlit.
-* Implement real-time prediction capabilities.
-
----
-
 ## Author
 
 **Kasi Viswanath Sharma**
-
 Machine Learning | Data Analytics | Data Visualization
